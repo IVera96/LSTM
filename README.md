@@ -13,7 +13,7 @@ Imagine you're watching a movie: to understand the current scene, you need to re
 Due to privacy constraints, the dataset used in this project cannot be shared.  
 However, the main goal was to build a model capable of predicting multiple months into the future.
 
-To do this, a **recursive forecasting** approach was used:  
+To do this, a **recursive (autoregressive) forecasting** approach was used:  
 → each predicted value is fed back into the model to forecast the next time step.
 
 
