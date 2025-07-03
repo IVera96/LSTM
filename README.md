@@ -65,5 +65,5 @@ These results demonstrate a **clear improvement** in forecasting performance.
   - NumPy
   - Pandas
   - Matplotlib / Seaborn
-- **Model**: Recursive LSTM
+- **Model**: Multivariate Recursive LSTM
 - **Forecasting method**: Multi-step recursive prediction
